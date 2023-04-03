@@ -1,2 +1,2 @@
 # DetectionAlgorithm
-The objective of this algorithm is classify different types of LPG cylinders in categories related to: material (composite or steel) and size (big or small).
+The objective of this project is classifying different types of LPG cylinders in categories related to: material (composite or steel) and size (big or small), through images using Machine Learning algorithms.  
